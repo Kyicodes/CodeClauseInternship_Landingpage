@@ -25,6 +25,20 @@ h2 {
     letter-spacing: 5px;
 }
 
+h5 {
+    text-align: center;
+    letter-spacing: 5px;
+    font-size: 1rem;
+    font-weight: 400;
+    padding: 15px;
+}
+
+p {
+    font-size: 25px;
+    letter-spacing: 3px;
+}
+
+
 .hero {
     text-align: center;
     background-image: linear-gradient(rgba(0, 0, 0, 0.5),
@@ -33,4 +47,10 @@ h2 {
     background-position: cover;
     color: #dbd8e3;
     height: 600px;
+}
+
+.why {
+    height: 500px;
+    background-color: white;
+    padding: 20px;
 }
