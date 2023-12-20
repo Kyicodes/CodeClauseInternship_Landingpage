@@ -38,6 +38,13 @@ p {
     letter-spacing: 3px;
 }
 
+footer {
+    letter-spacing: 3px;
+    background-color: #2C2A2A;
+    color: #DBD8E3;
+    padding: 10px;
+}
+
 
 .hero {
     text-align: center;
